@@ -188,7 +188,6 @@ The Flask REST API was tested using Postman.
 
 The `/predict` endpoint was tested using a POST request with JSON input, and the trained Machine Learning model successfully returned the prediction.
 
-## 🚀 Deployment
 
 ## 🚀 Deployment
 
