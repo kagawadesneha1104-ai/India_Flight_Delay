@@ -96,7 +96,7 @@ The target variable represents the flight delay status.
 
 ## 📁 Project Structure
 
-    India_Flight_Delay/
+India_Flight_Delay/
 │
 ├── dataset/
 │   └── india_flight_delay_model_input.csv
@@ -122,6 +122,7 @@ The target variable represents the flight delay status.
 ├── flight_delay_model.pkl
 ├── README.md
 └── requirements.txt
+```
 
 ## 🌐 Flask API
 
