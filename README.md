@@ -190,15 +190,21 @@ The `/predict` endpoint was tested using a POST request with JSON input, and the
 
 ## 🚀 Deployment
 
-The project is prepared for deployment using Render.
+## 🚀 Deployment
 
-### Build Command
+The Flask application is successfully deployed on Render and tested using Postman.
 
-    pip install -r requirements.txt
+**Live API:** https://india-flight-delay.onrender.com
 
-### Start Command
+**Build Command**
+```bash
+pip install -r requirements.txt
+```
 
-    gunicorn app:app
+**Start Command**
+```bash
+gunicorn app:app
+```
 
 ## 🔄 Project Workflow
 
