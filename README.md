@@ -96,6 +96,7 @@ The target variable represents the flight delay status.
 
 ## 📁 Project Structure
 
+```text
 India_Flight_Delay/
 │
 ├── dataset/
