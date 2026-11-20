@@ -20,7 +20,7 @@ This project uses Machine Learning to predict the `Delay_Target` for Indian flig
 - Save the trained model using Pickle
 - Build a Flask REST API
 - Test the API using Postman
-- Prepare the application for deployment using Render
+-Deploy the application using Render
 
 ## 📊 Dataset
 
