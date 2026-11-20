@@ -97,18 +97,31 @@ The target variable represents the flight delay status.
 ## 📁 Project Structure
 
     India_Flight_Delay/
-    │
-    ├── dataset/
-    │   └── india_flight_delay_model_input.csv
-    │
-    ├── notebook/
-    │   └── India_Flight_Delay.ipynb
-    │
-    ├── .gitignore 
-    ├── app.py
-    ├── flight_delay_model.pkl
-    ├── README.md
-    └── requirements.txt
+│
+├── dataset/
+│   └── india_flight_delay_model_input.csv
+│
+├── documentation/
+│   └── India_Flight_Delay_Report.pdf
+│
+├── notebook/
+│   └── India_Flight_Delay.ipynb
+│
+├── presentation/
+│   └── India_Flight_Delay_Presentation.pptx
+│
+├── screenshots/
+│   ├── actual_vs_predicted.png
+│   ├── correlation_heatmap.png
+│   ├── postman_prediction.png
+│   ├── previous_flight_vs_departure_delay.png
+│   └── render_deployment.png
+│
+├── .gitignore
+├── app.py
+├── flight_delay_model.pkl
+├── README.md
+└── requirements.txt
 
 ## 🌐 Flask API
 
